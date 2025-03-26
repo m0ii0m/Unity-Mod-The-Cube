@@ -60,3 +60,7 @@ crashlytics-build.properties
 Thumbs.db
 Desktop.ini
 .vsconfig
+connectwebgl.zip
+webgl_sharing
+/WebGL Builds/
+ProjectSettings/Packages/com.unity.connect.share/Settings.json
